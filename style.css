@@ -115,7 +115,7 @@ footer {
     height: 40px;
     background: no-repeat center;
     background-size: cover;
-    background-image: url('/img/img2.webp');
+    background-image: url("img2.webp");
     border-radius: 50%;
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
 }
